@@ -10,7 +10,7 @@ TODO:
 - Toggle friendly fire
 - Graph's colors by character, not position
 
-  LOVE:
+Code love:
 - Fix lastSpellCaster
 - Refactor the multi accounting check
 - Refactoring duplicated code
